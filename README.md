@@ -13,7 +13,7 @@
 
 ## ⬆️DEPLOY KE SERVER HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rizki636/rizki_userbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMr-rizki636%2Frizki_userbot&template=https%3A%2F%2Fgithub.com%2FMr-rizki636%2Frizki_userbot)
 
 
 ## APA ITU HEROKU
