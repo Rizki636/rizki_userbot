@@ -22,5 +22,7 @@ TERBATAS SAMPAI 5 APP SAJA, JIKA SUDAH 5 APP KITA HARUS MENGHAPUS SALAH SATU APP
 
 # Made by
 [DERYL IT TEAM](t.me/derylitteam)
+
 [RIZKI](https://t.me/Rizki636)
+
 [CHANNEL RIZKI](https://t.me/ChannelDanaGratis)
