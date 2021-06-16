@@ -15,7 +15,7 @@
   "env": {
     "ENV": {
       "description": "Jangan diganti.",
-      "value": "ANYTHING"
+      "value": "ANYTHING",
     },
     "TMP_DOWNLOAD_DIRECTORY": {
       "description": "Jangan diganti.",
