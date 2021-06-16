@@ -1,4 +1,4 @@
-[IMG_20210616_123826_835.jpg](https://github.com/Rizki636/rizki_userbot)
+[![ logo](https://telegra.ph/file/b7dc845e3a48cde0d7bb1.jpg)](https://github.com/Rizki636/rizki_userbot)
 
 [![Issues](https://img.shields.io/github/issues/Rizki636/rizki_userbot?style=for-the-badge&color=green)](https://github.com/Rizki636/rizky_userbot/)
 [![Forks](https://img.shields.io/github/forks/Rizki636/rizki_userbot?style=for-the-badge&color=green)](https://github.com/Rizki636/rizki_userbot)
