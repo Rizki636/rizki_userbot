@@ -1,4 +1,4 @@
-[![ logo](IMG_20210616_123826_835.jpg)](https://github.com/Rizki636/rizki_userbot)
+[![ logo](IMG_20210616_123826_835.jpg)](https://github.com/Rizki636/rizki_userbot_official)
 
 [CHANNEL RESMI](https://t.me/rizki_userbot)
 
