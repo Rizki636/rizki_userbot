@@ -1,3 +1,5 @@
+[IMG_20210616_123826_835.jpg](https://github.com/Rizki636/rizki_userbot)
+
 [![Issues](https://img.shields.io/github/issues/Rizki636/rizki_userbot?style=for-the-badge&color=green)](https://github.com/Rizki636/rizky_userbot/)
 [![Forks](https://img.shields.io/github/forks/Rizki636/rizki_userbot?style=for-the-badge&color=green)](https://github.com/Rizki636/rizki_userbot)
 [![Stars](https://img.shields.io/github/stars/Rizki636/rizki_userbot?style=for-the-badge&color=green)](https://github.com/Rizki636/rizki_userbot)
