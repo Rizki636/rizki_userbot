@@ -1,0 +1,127 @@
+{
+  "name": "Rizki userbot",
+  "description": "Dibuat oleh @derylitteam ",
+  "logo": "https://i.ibb.co/M5BtFwG/IMG-20210616-123826-835.jpg",
+  "keywords": [
+    "telegram",
+    "userbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/Rizki636/rizki_userbot/",
+  "website": "#TODO",
+  "success_url": "#TODO",
+  "env": {
+    "ENV": {
+      "description": "Jangan diganti.",
+      "value": "ANYTHING"
+    },
+    "TMP_DOWNLOAD_DIRECTORY": {
+      "description": "Jangan diganti.",
+      "value": "./downloads/",
+      "required": false
+    },
+    "ALIVE_NAME": {
+      "description": "Namamu",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "App id dari my.telegram.org",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Api hash dari my.telegram.org",
+      "value": ""
+    },
+    "STRING_SESSION": {
+      "description": "https://replit.com/@RIZKI636/string#main.py",
+      "value": ""
+    },
+    "TG_BOT_USER_NAME_BF_HER": {
+      "description": "Buat bot dan masukkan usernamenya",
+      "value": ""
+    },
+    "TG_BOT_TOKEN_BF_HER": {
+      "description": "Buat bot dan masukkan tokennya.",
+      "value": ""
+    },
+    "HEROKU_API_KEY": {
+      "description": "Untuk update. Dapatkan di https://dashboard.heroku.com/account",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Nama aplikasi heroku ini ",
+      "value": "",
+      "required": false
+    },
+    "DEFAULT_BIO": {
+      "description": "Biomu, max 70 huruf.",
+      "value": "",
+      "required": false
+    },    
+    "MAX_FLOOD_IN_P_M_s": {
+      "description": "Warning spam pm.",
+      "value": "6",
+      "required": false
+    },
+    "OCR_SPACE_API_KEY": {
+      "description": "Untuk OCR. Dapatkan dari https://ocr.space/ocrapi",
+      "value": "",
+      "required": false
+    },
+    "REM_BG_API_KEY": {
+      "description": "Untuk remove background. Dapatkan dari https://www.remove.bg/",
+      "value": "",
+      "required": false
+    },
+    "ALIVE_PIC": {
+      "description": "Url fotomu gunakan imgbb.com.",
+      "value": "",
+    },
+    "AUTONAME": {
+      "description": "untuk .autoname namamu",
+      "value": "",
+      "required": false
+    },
+    "LYDIA_API_KEY": {
+      "description": "Baca https://telegra.ph/Lydia-09-05.",
+      "value": "",
+      "required": false
+    },
+    "DEFAULT_PIC": {
+      "description": "Harus sama dengan ALIVE_PIC",
+      "value": "",
+      "required": false
+    },
+    "TZ": {
+      "description": "Timezone kamu. dapatkan di http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "value": "Asia/Kolkata",
+      "required": false
+    }
+  },
+  "addons": [{
+    "plan": "heroku-postgresql",
+    "options": {
+      "version": "12"
+    }
+  }],
+  "buildpacks": [{
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },{
+    "url":"https://github.com/amivin/aria2-heroku.git"
+  },{
+    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
+  },{
+    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
+  },{
+    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+  },{
+    "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+  },{
+    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
+  },{
+    "url": "heroku/python"
+  }]
+}
