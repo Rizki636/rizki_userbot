@@ -27,8 +27,8 @@ TERBATAS SAMPAI 5 APP SAJA, JIKA SUDAH 5 APP KITA HARUS MENGHAPUS SALAH SATU APP
 # Made by
 [DERYL IT TEAM](https://t.me/derylitteam)
 
-[CHANNEL DERYL](https://t.me/derylproject)
-
 [RIZKI](https://t.me/Rizki636)
+
+[CHANNEL DERYL](https://t.me/derylproject)
 
 [CHANNEL RIZKI](https://t.me/ChannelDanaGratis)
