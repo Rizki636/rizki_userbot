@@ -1,6 +1,6 @@
-[![ logo](IMG_20210616_123826_835.jpg)](https://github.com/Rizki636/rizki_userbot_official)
+[![ logo](IMG_20210616_123826_835.jpg)](https://github.com/Rizki636/)
 
-[CHANNEL RESMI](https://t.me/rizki_userbot)
+[CHANNEL RESMI](https://t.me/rizki_userbot_official)
 
 [![Issues](https://img.shields.io/github/issues/Rizki636/rizki_userbot?style=for-the-badge&color=green)](https://github.com/Rizki636/rizky_userbot/)
 [![Forks](https://img.shields.io/github/forks/Rizki636/rizki_userbot?style=for-the-badge&color=green)](https://github.com/Rizki636/rizki_userbot)
